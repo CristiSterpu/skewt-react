@@ -192,9 +192,9 @@ This library should work in all modern browsers that support SVG and modern Java
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+2. Create your feature branch (`git checkout -b feature/new-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
+4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
 ## License
@@ -205,8 +205,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Built with [D3.js](https://d3js.org/)
 - Inspired by traditional SkewT-logP diagrams used in meteorology
-
-## Related Projects
-
-- [MetPy](https://unidata.github.io/MetPy/latest/index.html) - A collection of tools in Python for reading, visualizing, and performing calculations with weather data
-- [SHARPpy](https://sharppy.github.io/SHARPpy/) - Sounding and Hodograph Analysis and Research Program in Python
+- https://github.com/rsobash/d3-skewt
